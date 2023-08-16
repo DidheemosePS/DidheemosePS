@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Didheemose P S from Kochi<br><br>- 🔭 I'm looking for opportunities<br>- 📚 I'm currently learning Next JS<br>- ⚡ In my free time I'm coding the brain</p>
+<p align="left">I'm Didheemose P S from Kochi<br><br>- 🔭 I'm looking for opportunities<br>- 📚 I'm currently learning Next JS & Tailwind CSS<br>- ⚡ In my free time I'm coding the brain</p>
 
 ###
 
