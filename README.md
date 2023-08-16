@@ -25,7 +25,11 @@
 
 ###
 
-<p align="left">👩‍💻  About Me<br><br>Recent BCA graduate and aspiring Front-End Web Developer with a focus on React JS. Equipped with strong problem-solving skills, time management, and a passion for continuous learning. Actively seeking an entry-level position in web development with a reputable organization to contribute my skills and creativity. Proudly developed 'PlantIn,' a captivating college project leveraging the power of React JS. Open to new challenges and eager to make a positive impact in the world of web development.</p>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Recent BCA graduate and aspiring Front-End Web Developer with a focus on React JS. Equipped with strong problem-solving skills, time management, and a passion for continuous learning. Actively seeking an entry-level position in web development with a reputable organization to contribute my skills and creativity. Proudly developed 'PlantIn,' a captivating college project leveraging the power of React JS. Open to new challenges and eager to make a positive impact in the world of web development.</p>
 
 ###
 
