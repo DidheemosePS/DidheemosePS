@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Didheemose P S</h1>
-<h3 align="center">Frontend Web Developer | HTML, Tailwind & Typescript | Passionate about React JS | Bachelor's in Computer Applications</h3>
+<h3 align="center">Full Stack Developer | React.js, Node.js, Django, AWS, MongoDB | MSc Cloud Computing | Open to Graduate & Junior Roles in Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didheemoseps&label=Profile%20views&color=0e75b6&style=flat" alt="didheemoseps" /> </p>
 
