@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m a passionate Full Stack Developer currently based in Dublin, pursuing an MSc in Cloud Computing. I specialize in building and deploying cloud-native web applications using React.js, Node.js, Django, and AWS.<br>My technical background includes developing responsive user interfaces, building secure RESTful APIs, integrating CI/CD pipelines, and deploying scalable services on AWS EC2 and Elastic Beanstalk. I’ve also explored blockchain, machine learning, and federated systems in personal and academic projects — giving me a strong understanding of data, performance, and real-world problem-solving.<br>I enjoy working in collaborative, agile teams and I’m comfortable owning full-stack features end to end. My goal is to contribute to impactful products that reach global users and solve real problems — while continuing to grow as a developer.<br>I’m actively seeking graduate or junior Full Stack Developer roles in Ireland. Feel free to connect or message me if you'd like to collaborate or know more about my projects!
+I’m a Full-Stack Software Engineer with experience in React, Node.js, Django, and AWS, building scalable cloud-based web applications. I’ve deployed projects with CI/CD pipelines, AWS Elastic Beanstalk, and SonarCloud while also publishing open-source tools like a Django email package on PyPI (1,200+ downloads).
+My work spans end-to-end development — from designing APIs and front-end interfaces to cloud deployments and automation. I also explore blockchain (Solidity, Web3.js) and machine learning (scikit-learn, Python) as supporting interests.
+Tech Stack Highlights: React · Next.js · Django · Node.js · AWS · PostgreSQL · MongoDB · Solidity · Web3.js · Scikit-learn
 
 
 ## 🌐 Socials:
